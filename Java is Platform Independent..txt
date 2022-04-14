@@ -1,0 +1,4 @@
+Why Java is platform independent?
+-> Java source code is the code written by the developer. It is converted into byte code by the compiler(javac) and byte code is platform 
+independent. Java Virtual Machine (JVM) converts the byte code into appropriate platforms suitable code & JVM takes care of all the hardware
+ issues. That's why Java is platform independent.
